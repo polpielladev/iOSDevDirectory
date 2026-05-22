@@ -1942,7 +1942,7 @@
             "author": "Igor Kulman",
             "site_url": "https://blog.kulman.sk",
             "feed_url": "https://blog.kulman.sk/index.xml",
-            "x_url": "https://x.com/igorkulman"
+            "mastodon_url": "https://hachyderm.io/@igorkulman"
           },
           {
             "title": "iJoshSmith",
