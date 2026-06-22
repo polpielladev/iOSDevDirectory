@@ -722,17 +722,17 @@
             "linkedin_url": "https://www.linkedin.com/in/amiantos/"
           },
           {
-			  "title": "Brent Deverman's Thoughts",
-			  "author": "Brent Deverman",
-			  "site_url": "https://deverman.org",
-			  "feed_url": "https://deverman.org/rss",
-			  "bluesky_url": "https://bsky.app/profile/deverman.org",
-			  "mastodon_url": "https://iosdev.space/@Deverman",
-			  "threads_url": "https://www.threads.com/@bdeverman",
-			  "x_url": "https://x.com/bdeverman",
-			  "github_url": "https://github.com/deverman",
-			  "linkedin_url": "https://www.linkedin.com/in/deverman/"
-		  },
+            "title": "Brent Deverman's Thoughts",
+            "author": "Brent Deverman",
+            "site_url": "https://deverman.org",
+            "feed_url": "https://deverman.org/rss",
+            "bluesky_url": "https://bsky.app/profile/deverman.org",
+            "mastodon_url": "https://iosdev.space/@Deverman",
+            "threads_url": "https://www.threads.com/@bdeverman",
+            "x_url": "https://x.com/bdeverman",
+            "github_url": "https://github.com/deverman",
+            "linkedin_url": "https://www.linkedin.com/in/deverman/"
+          },
           {
             "title": "Bret Victor’s Blog",
             "author": "Bret Victor",
@@ -3729,8 +3729,8 @@
           {
             "title": "Roland Leth’s Blog",
             "author": "Roland Leth",
-            "site_url": "https://www.rolandleth.com/",
-            "feed_url": "https://www.rolandleth.com/feed",
+            "site_url": "https://roland.leth.ro/",
+            "feed_url": "https://roland.leth.ro/feed",
             "x_url": "https://x.com/rolandleth"
           },
           {
